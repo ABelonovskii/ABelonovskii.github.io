@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I’m Alexey. I completed my postgraduate studies at the Alferov University and successfully defended my PhD dissertation at ITMO University in December 2021. My dissertation, titled "Modification of the probability of spontaneous emission in plasmonic, organic and semiconductor nanostructures", was supervised by [Dr. M. Kaliteevski](https://www.webofscience.com/wos/author/record/M-1308-2016).
 
-Alongside my academic career, I have pursued a parallel career in programming. Currently, I am a Senior Software Engineer at Tungsten Automation. 
+Alongside my academic career, I have pursued a parallel career in programming. Currently, I am a Senior Software Engineer at [Tungsten Automation](https://www.tungstenautomation.com/). 
 
 My main areas of interest include:
 
