@@ -6,7 +6,7 @@ subtitle: <a href='#'>PhD in Physics and Mathematics</a>
 
 profile:
   align: right
-  image: my_photo_1.jpg
+  image: my_photo_2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Alexey Belonovskii </p> 
