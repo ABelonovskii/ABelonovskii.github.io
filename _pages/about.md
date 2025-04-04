@@ -11,8 +11,8 @@ profile:
   more_info: >
     <p>Alexey Belonovskii </p> 
     <p>(Алексей Белоновский)</p>
-    <p><img src="/assets/img/building.png" alt="Location" style="width: 12px; height: 15px;"> Tungsten automation</p>
-    <p><img src="/assets/img/location.png" alt="Location" style="width: 12px; height: 15px;"> Montenegro</p>
+    <p><img src="/assets/img/building.png" alt="Location" style="width: 12px; height: 15px;"> LayTec </p>
+    <p><img src="/assets/img/location.png" alt="Location" style="width: 12px; height: 15px;"> Germany </p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I’m Alexey. I completed my postgraduate studies at Alferov University and successfully defended my PhD dissertation at ITMO University in December 2021. My dissertation, titled "Modification of the probability of spontaneous emission in plasmonic, organic, and semiconductor nanostructures", was supervised by [Dr. M. Kaliteevski](https://www.webofscience.com/wos/author/record/M-1308-2016).
 
-Alongside my academic career, I have pursued a parallel career in programming. Currently, I am a Senior Software Engineer at [Tungsten Automation](https://www.tungstenautomation.com/). 
+Alongside my academic career, I have pursued a parallel career in programming. Previously, I worked as a Senior Software Engineer at [Tungsten Automation](https://www.tungstenautomation.com/). 
 
 My main areas of interest include:
 
