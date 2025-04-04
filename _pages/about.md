@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Alexey Belonovskii </p> 
     <p>(Алексей Белоновский)</p>
-    <p><img src="/assets/img/building.png" alt="Location" style="width: 12px; height: 15px;"> LayTec </p>
+    <p><img src="/assets/img/building.png" alt="Location" style="width: 12px; height: 15px;"> LayTec AG </p>
     <p><img src="/assets/img/location.png" alt="Location" style="width: 12px; height: 15px;"> Germany </p>
 
 news: false # includes a list of news items
