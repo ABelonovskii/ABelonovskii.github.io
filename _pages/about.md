@@ -33,7 +33,7 @@ My main areas of interest include:
 - `Photonics`
 - `Quantum Optics`
 - `Numerical Simulation`
-- `Python, C#`
+- `Python, C#, С++`
 - `Artificial Intelligence`
 
 I am enthusiastic about applying my interdisciplinary background to cutting-edge research and technology development.
