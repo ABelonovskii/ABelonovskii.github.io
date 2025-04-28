@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD in Physics and Mathematics</a>
+subtitle: <a href='#'>Scientific Software Developer | PhD Physicist | AI for Photonics and Materials</a>
 
 profile:
   align: right
@@ -21,19 +21,22 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I’m Alexey. I completed my postgraduate studies at Alferov University and successfully defended my PhD dissertation at ITMO University in December 2021. My dissertation, titled "Modification of the probability of spontaneous emission in plasmonic, organic, and semiconductor nanostructures", was supervised by [Dr. M. Kaliteevski](https://www.webofscience.com/wos/author/record/M-1308-2016).
+Hi! I’m Alexey — a physicist and scientific software developer specializing in photonics, quantum optics, and AI-driven modeling.
+I am passionate about bridging physics, engineering, and artificial intelligence to develop innovative solutions in photonics and materials science.
 
-Alongside my academic career, I have pursued a parallel career in programming. Previously, I worked as a Senior Software Engineer at [Tungsten Automation](https://www.tungstenautomation.com/). 
+My background combines academic research in nanophotonics and light–matter interaction with hands-on experience in scientific software development for optical simulation, signal processing, and data automation.
+
+I also built a strong engineering career, including work as a Senior Software Engineer at [Tungsten Automation](https://www.tungstenautomation.com/), where I focused on developing critical production systems and scientific tools.
 
 My main areas of interest include:
 
-- `Quantum Optics`
 - `Photonics`
+- `Quantum Optics`
 - `Numerical Simulation`
 - `Python, C#`
 - `Artificial Intelligence`
 
-I am delighted to apply my knowledge in physics and software engineering to work on innovative projects. My experience in both fields allows me to approach problems from both perspectives.
-
-Feel free to connect with me on social media or check out my publications and recent projects. I am always open to new collaborations and discussions.
+I am enthusiastic about applying my interdisciplinary background to cutting-edge research and technology development.
+Feel free to explore my [publications](https://abelonovskii.github.io/publications/), [projects](https://abelonovskii.github.io/repositories/), and [short CV](https://abelonovskii.github.io/cv/).
+I am always open to new collaborations, innovation-driven projects, and scientific discussions.
 
