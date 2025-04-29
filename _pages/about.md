@@ -9,7 +9,7 @@ profile:
   image: my_photo_2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Alexey Belonovskii </p> 
+    <p>Alexey Belonovskii </p>  
     <p>(Алексей Белоновский)</p>  
     <!--
     <p><img src="/assets/img/building.png" alt="Location" style="width: 12px; height: 15px;"> LayTec AG </p>
