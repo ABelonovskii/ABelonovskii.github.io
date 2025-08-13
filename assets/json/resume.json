@@ -172,7 +172,7 @@
       "name": "Programming Languages",
       "level": "Expert",
       "icon": "fa-brands fa-python",
-      "keywords": ["C#", "Python", "C++"]
+      "keywords": ["C#", "Python", "C++", "LabVIEW"]
     },
     {
       "name": "Web & Application Frameworks",
