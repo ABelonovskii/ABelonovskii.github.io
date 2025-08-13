@@ -6,7 +6,7 @@
     "email": "aleksei.belonovskii@gmail.com",
     "phone": "",
     "url": "https://abelonovskii.github.io/",
-    "summary": "Research Scientist in condensed matter physics with a PhD awarded in 2021. I am an author and co-author of about 30 peer-reviewed scientific publications. Concurrently, I have 8 years of experience in software development and engineering. I am delighted to apply my knowledge in physics and software engineering to work on innovative projects. My experience in both fields allows me to approach problems from multiple perspectives.",
+    "summary": "Research Scientist in condensed matter physics. I am an author and co-author of about 30 peer-reviewed scientific publications. Concurrently, I have 8 years of experience in software development and engineering. I am delighted to apply my knowledge in physics and software engineering to work on innovative projects. My experience in both fields allows me to approach problems from multiple perspectives.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -44,11 +44,20 @@
   },
   "work": [
     {
+      "name": "QYB - Quantum Yield Berlin GmbH",
+      "position": "Research And Development Engineer",
+      "url": "https://qyb.berlin",
+      "startDate": "2025-06",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": ""
+    },
+    {
       "name": "LayTec AG",
-      "position": "Software Developer and Physicist",
+      "position": "Scientific Researcher and Software Developer",
       "url": "http://www.laytec.de",
       "startDate": "2025-04",
-      "endDate": "Present",
+      "endDate": "2025-05",
       "summary": "Developed architecture and AI pipeline for an in-situ semiconductor metrology project, covering physical simulations, synthetic data generation, and predictive modeling. The project was cancelled.",
       "highlights": ""
     },
@@ -66,7 +75,7 @@
       "position": "Research Collaborator",
       "url": "https://www.lut.fi/en",
       "startDate": "2024-02",
-      "endDate": "2024-07",
+      "endDate": "2025-02",
       "summary": "Led the full-cycle development of a transformer-based AI model for photonic nanostructure analysis and VCSEL emission prediction, resulting in a first-author publication in a peer-reviewed journal.",
       "highlights": ""
     },
