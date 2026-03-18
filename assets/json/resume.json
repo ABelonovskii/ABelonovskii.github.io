@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Aleksei Belonovskii",
-    "label": "Research Scientist & Software Engineer",
+    "label": "Scientific Software Developer",
     "image": "",
     "email": "aleksei.belonovskii@gmail.com",
     "phone": "",
     "url": "https://abelonovskii.github.io/",
-    "summary": "Research Scientist in condensed matter physics. I am an author and co-author of about 30 peer-reviewed scientific publications. Concurrently, I have 8 years of experience in software development and engineering. I am delighted to apply my knowledge in physics and software engineering to work on innovative projects. My experience in both fields allows me to approach problems from multiple perspectives.",
+    "summary": "Physicist and scientific software developer working at the intersection of photonics, materials science, and AI. I create computational models and tools that connect physical insight with real-world engineering.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -45,8 +45,8 @@
   "work": [
     {
       "name": "QYB - Quantum Yield Berlin GmbH",
-      "position": "Research And Development Engineer",
-      "url": "https://qyb.berlin",
+      "position": "Head of Technology",
+      "url": "https://quantum-yield-berlin.com/",
       "startDate": "2025-06",
       "endDate": "Present",
       "summary": "Design and development of a luminescence quantum yield analysis system.",
@@ -75,7 +75,7 @@
       "position": "Research Collaborator",
       "url": "https://www.lut.fi/en",
       "startDate": "2024-02",
-      "endDate": "2025-02",
+      "endDate": "2026-02",
       "summary": "Led the full-cycle development of a transformer-based AI model for photonic nanostructure analysis and VCSEL emission prediction.",
       "highlights": ""
     },
